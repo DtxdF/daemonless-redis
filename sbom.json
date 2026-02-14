@@ -1,12 +1,12 @@
 {
   "image": "redis",
-  "generated": "2026-02-13T22:08:23Z",
+  "generated": "2026-02-14T10:00:50Z",
   "tags": {
     "pkg-latest": {
       "arch": "amd64",
-      "app_version": "8.4.0_1",
+      "app_version": "8.4.1",
       "source": "pkg",
-      "generated": "2026-02-13T22:07:23Z",
+      "generated": "2026-02-14T10:00:35Z",
       "packages": {
         "freebsd": [
           {
@@ -143,7 +143,7 @@
           },
           {
             "name": "redis",
-            "version": "8.4.0_1"
+            "version": "8.4.1"
           },
           {
             "name": "s6",
@@ -184,7 +184,7 @@
       "arch": "amd64",
       "app_version": "8.4.0_1",
       "source": "pkg",
-      "generated": "2026-02-13T22:08:12Z",
+      "generated": "2026-02-14T10:00:38Z",
       "packages": {
         "freebsd": [
           {
