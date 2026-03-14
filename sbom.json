@@ -1,12 +1,12 @@
 {
   "image": "redis",
-  "generated": "2026-03-07T09:00:14Z",
+  "generated": "2026-03-14T19:19:51Z",
   "tags": {
     "pkg-latest": {
       "arch": "amd64",
       "app_version": "8.6.1",
       "source": "pkg",
-      "generated": "2026-03-07T09:00:02Z",
+      "generated": "2026-03-14T19:19:38Z",
       "packages": {
         "freebsd": [
           {
@@ -127,7 +127,7 @@
           },
           {
             "name": "execline",
-            "version": "2.9.7.0"
+            "version": "2.9.8.1"
           },
           {
             "name": "jq",
@@ -147,15 +147,15 @@
           },
           {
             "name": "s6",
-            "version": "2.13.2.0"
+            "version": "2.14.0.1"
           },
           {
             "name": "s6-rc",
-            "version": "0.5.6.0"
+            "version": "0.6.0.0"
           },
           {
             "name": "skalibs",
-            "version": "2.14.4.0"
+            "version": "2.14.5.1"
           }
         ],
         "dotnet": [],
@@ -184,7 +184,7 @@
       "arch": "amd64",
       "app_version": "8.4.0_1",
       "source": "pkg",
-      "generated": "2026-03-07T08:59:54Z",
+      "generated": "2026-03-14T19:18:58Z",
       "packages": {
         "freebsd": [
           {
