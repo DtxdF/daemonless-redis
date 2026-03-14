@@ -11,6 +11,12 @@ x-daemonless:
   user: "bsd"
   mlock: false
   upstream_binary: false
+
+  appjail:
+    director:
+      options:
+        - "alias:"
+        - "ip4_inherit:"
   
   docs:
     env:
